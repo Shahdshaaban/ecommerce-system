@@ -1,0 +1,4 @@
+
+interface ExpirableProduct{
+    boolean isExpired();
+}
